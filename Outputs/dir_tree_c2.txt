@@ -1,0 +1,11 @@
+C:\DOOM
+├── announcer
+├── Doomseeker
+│   ├── audio
+│   ├── engines
+│   ├── platforms
+│   ├── theme
+│   │   └── slots
+│   │       └── marines
+│   └── translations
+└── skins
