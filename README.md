@@ -3,6 +3,3 @@
 
 ## How to use
 Edit the .ps1 script in the release folder to define your source folder and output folder\file.txt
-
-## Use of AI
-Generative AI was used to assist in the writing of this code.
